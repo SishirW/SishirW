@@ -7,7 +7,6 @@
   <a href="https://www.linkedin.com/in/sishir-wagle-039b0a19b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SishirW&style=flat-square&color=blue" alt=""/>
 </div>
 
 
